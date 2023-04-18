@@ -1,0 +1,16 @@
+pipeline {
+  agent any
+  stages{
+   stage('working with jenkins pac'){
+    steps{
+     script{
+     
+
+    println "welcome to dipun devops !!"
+
+
+    }
+    }
+   }
+  }
+}
